@@ -2,5 +2,5 @@ package com.appsecco.dvja;
 
 public class Constant {
     public static String SESSION_USER_HANDLE = "USER";
-    public static String password = "plaintext_password";
+    public static String password = "plaintext_password_v1";
 }
